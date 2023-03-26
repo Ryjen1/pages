@@ -1,0 +1,27 @@
+ .container{
+    background-color: antiquewhite;
+    display: flex;
+    place-content: space-between;
+
+ }
+ .nav ul{
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    list-style-type: none;
+ }
+ h1{
+    text-align: justify;
+ }
+ .bar ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    font-size: 20px;
+    text-transform: capitalize;
+ }
+ p{
+    font-size: 25px;
+ }
